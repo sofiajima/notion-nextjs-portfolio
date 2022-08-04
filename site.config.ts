@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'Sofía Jiménez Portfolio',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  twitter: 'sofiajimam',
   github: 'sofiajima',
   linkedin: 'sofía-jiménez-martínez',
   // newsletter: '#', // optional newsletter URL
